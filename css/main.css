@@ -38,6 +38,26 @@ body {
   color: #fff;
 }
 
+text {
+  fill: #666;
+  font-size: 15px;
+}
+
+polyline.bright {
+  stroke: #fff;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 1.5;
+}
+
+polyline.normal {
+  stroke: #999;
+}
+
+polyline.dimmed {
+  stroke: #666;
+}
+
 .xsmall {
   font-size: 15px;
   line-height: 20px;
