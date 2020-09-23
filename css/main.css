@@ -43,6 +43,10 @@ text {
   font-size: 15px;
 }
 
+polyline {
+  fill-opacity: 0%;
+}
+
 polyline.bright {
   stroke: #fff;
   stroke-linejoin: round;
